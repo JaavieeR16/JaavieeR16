@@ -6,9 +6,8 @@ Desarrollador de Aplicaciones Multiplataforma
 
 👋🏼 ¡Hola! Me presento soy Javier Monroy Muñoz, un profesional con formación en Desarrollo de Aplicaciones Multiplataforma y Sistemas Microinformáticos y Redes, con una especial pasión por el diseño y desarrollo web. Mi trayectoria académica se complementa con un curso especializado en Confección y Publicación de Páginas Web, área que me entusiasma y en la que he decidido enfocar mi carrera. 🎯Mi objetivo es seguir creciendo en el campo del desarrollo web y la gestión de sistemas, aportando mis conocimientos y experiencia para crear soluciones tecnológicas eficientes y de alto impacto. Estoy siempre en búsqueda de nuevos desafíos que me permitan continuar aprendiendo y desarrollándome profesionalmente.
 
-* 🌍  I'm based in Valencia
-* 🖥️  See my portfolio at [javiermonroy.es](http://javiermonroy.es/)
-* ✉️  You can contact me at [javiermonroym16@gmail.com](mailto:javiermonroym16@gmail.com)
+* 🌍  Valencia
+* ✉️  Puedes contactar conmigo: [javiermonroym16@gmail.com](mailto:javiermonroym16@gmail.com)
 
 ### Skills
 
