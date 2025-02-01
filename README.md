@@ -11,4 +11,11 @@ alto impacto. Estoy siempre en búsqueda de nuevos desafíos que me permitan con
 profesionalmente.></p>
 <br>
 <h3>📊 Lenguajes más usados</h3>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=JaavieeR16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Most Used Languages 📚
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JaavieeR16&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+
+<hr>
+<br>
