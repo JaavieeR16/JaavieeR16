@@ -1,5 +1,5 @@
 <h1 align="center"><b>¡Hola, soy Javier Monroy! </b></h1>
-<img alt="Night Coding" src="jm.jpg" width='100%' align="left" />
+<img alt="Imagén JM" src="jm.jpg" width='100%'/>
 <h2 margin-top="50px">Sobre Mi</h2>
 <p👋🏼 ¡Hola! Me presento soy Javier Monroy Muñoz, un profesional con formación en Desarrollo de Aplicaciones
 Multiplataforma y Sistemas Microinformáticos y Redes, con una especial pasión por el diseño y desarrollo web. Mi
