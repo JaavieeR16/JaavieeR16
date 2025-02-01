@@ -9,5 +9,6 @@ entusiasma y en la que he decidido enfocar mi carrera.</p>
 y la gestión de sistemas, aportando mis conocimientos y experiencia para crear soluciones tecnológicas eficientes y de
 alto impacto. Estoy siempre en búsqueda de nuevos desafíos que me permitan continuar aprendiendo y desarrollándome
 profesionalmente.></p>
-📊 GitHub Stats:
+<br>
+<h3>📊 Lenguajes más usados</h3>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaavieeR16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
