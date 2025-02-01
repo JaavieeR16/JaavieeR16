@@ -13,7 +13,7 @@ profesionalmente.></p>
 <h3>📊 Lenguajes más usados</h3>
 ## Most Used Languages 📚
 <br>
-<p align='center'>
+<p>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JaavieeR16&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 
