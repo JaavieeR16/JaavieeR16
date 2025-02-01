@@ -9,4 +9,3 @@ entusiasma y en la que he decidido enfocar mi carrera.</p>
 y la gestión de sistemas, aportando mis conocimientos y experiencia para crear soluciones tecnológicas eficientes y de
 alto impacto. Estoy siempre en búsqueda de nuevos desafíos que me permitan continuar aprendiendo y desarrollándome
 profesionalmente.></p>
-<hr>
